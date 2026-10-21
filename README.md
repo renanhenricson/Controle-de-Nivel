@@ -66,7 +66,12 @@ Nível 1: Muito baixo (crítico)
 
 A mensagem será exibida em vermelho no terminal.
 
-## 🎓 Competências desenvolvidas
+🎓 Competências desenvolvidas
 
-- **4.1:** Codificar programas utilizando técnicas de programação estruturada.
-- **4.2:** Dep
+4.1: Codificar programas utilizando técnicas de programação estruturada.
+
+4.2: Depurar e versionar programas utilizando um ambiente de desenvolvimento integrado.
+
+👨‍💻 Autor: Renan Henricson
+
+Desenvolvido como atividade acadêmica do curso Técnico em Desenvolvimento de Sistemas.
